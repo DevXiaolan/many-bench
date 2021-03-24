@@ -1,6 +1,6 @@
 const Moment = require('moment');
 const Day = require('dayjs');
-const Bench = require('@mohism/bench');
+const Bench = require('@mohism/bench').default;
 
 const b = new Bench();
 

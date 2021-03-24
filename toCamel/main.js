@@ -1,4 +1,4 @@
-const Bench = require('@mohism/bench');
+const Bench = require('@mohism/bench').default;
 
 const bench = new Bench();
 
